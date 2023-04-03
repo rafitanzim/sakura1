@@ -18,7 +18,7 @@ body {
     box-shadow: 0px 0px 20px #ccc;
   }
   .rafi {
-      z-index:1;
+      z-index:4;
     margin-top: 20px;
     margin-bottom: 30px;
     text-align: center;
